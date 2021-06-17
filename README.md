@@ -1,5 +1,5 @@
 # Face_Recognition
 
 This was a collage project done by:
-Alaa abdelmajied (Me)
-Maram Ghazal : https://github.com/MaramGhazal
+* Alaa abdelmajied [GitHub](https://github.com/Alaa-abdelmajied)
+* Maram Ghazal [GitHub](https://github.com/MaramGhazal)
